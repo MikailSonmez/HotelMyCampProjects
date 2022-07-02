@@ -1,4 +1,4 @@
-package utilities;
+package tests.proje;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utilities.Driver;
 
 import java.io.File;
 import java.io.IOException;

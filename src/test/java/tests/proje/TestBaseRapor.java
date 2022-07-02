@@ -1,4 +1,4 @@
-package utilities;
+package tests.proje;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -8,6 +8,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import tests.day20.ReusableMethods;
+import utilities.ConfigReader;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -32,8 +33,8 @@ public abstract class TestBaseRapor {
         extentReports.setSystemInfo("Enviroment","QA");
         extentReports.setSystemInfo("Browser", ConfigReader.getProperty("browser")); // chrome, firefox
         extentReports.setSystemInfo("Automation Engineer", "Mehmet");
-        extentHtmlReporter.config().setDocumentTitle("Hotel My Camp Page");
-        extentHtmlReporter.config().setReportName("Hotel My Camp Main Page Test");
+        extentHtmlReporter.config().setDocumentTitle("amazon Arama Testi");
+        extentHtmlReporter.config().setReportName("amazon Arama Automation Reports");
     }
     // Her test methodundan sonra eğer testte hata varsa, ekran görüntüsü alıp rapora ekliyor
     @AfterMethod(alwaysRun = true)

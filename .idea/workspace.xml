@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1303e16-e241-4b65-9a1e-0404fe1b25ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/project/TC_0001_WebPageUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/getScreenshot/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/TC_0001_WebPageUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/TC_0002_MainPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/TC_0003_MainPageButtonTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/TC_004_ChecKIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/proje/TestBaseRapor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMCPAddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMCPAddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMCPAddUserMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMCPAddUserMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HotelMyCampPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUser01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUser01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUserDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hotel/AddUserDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hotel/DataProviderTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hotel/DataProviderTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/hotel/ReadEXcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/hotel/ReadEXcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/project/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/project/TC_0001_WebPageUrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
