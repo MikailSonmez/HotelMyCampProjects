@@ -61,6 +61,7 @@ public class AddUser extends TestBaseRapor {
         hotelMCPAddUser.addusernamebox.clear();
 
 
+
     }
 
     @Test(priority = 2)
