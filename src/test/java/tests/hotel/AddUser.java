@@ -582,5 +582,21 @@ public class AddUser extends TestBaseRapor {
 
     }
 
+    @Test
+    public void datePositiveTest() {
+        extentTest = extentReports.createTest("dateNegativeTest", "Made in GURU");
+        extentTest.info("Bu Test onun onuruna ");
+        actions.sendKeys(Keys.PAGE_DOWN).perform();
+        hotelMCPAddUser.addUserDateofBirthbox.sendKeys(ConfigReader.getProperty("HMCAddUserTrueBirthDate"));
+        hotelMCPAddUserMethods.wait(1);
+        actions.sendKeys(Keys.PAGE_DOWN).perform();
+        hotelMCPAddUserMethods.wait(1);
+        hotelMCPAddUser.saveclickbutton.click();
+        softAssert.assertTrue(hotelMCPAddUser.addBirthDateIncorrect.isDisplayed());
+        hotelMCPAddUserMethods.wait(1);
+        hotelMCPAddUserMethods.tumSayfaScreenshot();
+
+    }
+
 
 }
