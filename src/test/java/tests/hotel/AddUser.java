@@ -580,6 +580,7 @@ public class AddUser extends TestBaseRapor {
         hotelMCPAddUserMethods.tumSayfaScreenshot();
 
 
+
     }
 
     @Test
