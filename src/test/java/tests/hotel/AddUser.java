@@ -501,6 +501,7 @@ public class AddUser extends TestBaseRapor {
         hotelMCPAddUserMethods.wait(1);
         hotelMCPAddUserMethods.tumSayfaScreenshot();
 
+
     }
 
     @Test(priority = 16)
