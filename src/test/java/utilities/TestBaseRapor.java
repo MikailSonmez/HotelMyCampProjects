@@ -31,7 +31,7 @@ public abstract class TestBaseRapor {
         // İstediğiniz bilgileri buraya ekeyebiliyorsunuz.
         extentReports.setSystemInfo("Enviroment","QA");
         extentReports.setSystemInfo("Browser", ConfigReader.getProperty("browser")); // chrome, firefox
-        extentReports.setSystemInfo("Automation Engineer", "Mehmet");
+        extentReports.setSystemInfo("Automation Engineer", "Mikail");
         extentHtmlReporter.config().setDocumentTitle("Hotel My Camp Page");
         extentHtmlReporter.config().setReportName("Hotel My Camp Main Page Test");
     }
