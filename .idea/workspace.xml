@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b1303e16-e241-4b65-9a1e-0404fe1b25ce" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +31,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikai/HotelMyCampProjects&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/mikai/HotelMyCampProjects",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mikai\HotelMyCampProjects\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AddUser.datePositiveTest (1)">
-    <configuration name="AddUser.dateNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Q12">
+    <configuration name="AddUser01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HotelMyCampProjects" />
       <extension name="coverage">
         <pattern>
@@ -52,33 +54,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.hotel" />
-      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
-      <option name="METHOD_NAME" value="dateNegativeTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser01" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddUser.datePositiveTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.hotel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.hotel" />
-      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
-      <option name="METHOD_NAME" value="datePositiveTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddUser.datePositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddUser01.passwordnegativetest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HotelMyCampProjects" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +71,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.hotel" />
-      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
-      <option name="METHOD_NAME" value="datePositiveTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser01" />
+      <option name="METHOD_NAME" value="passwordnegativetest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -96,7 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddUser.negativepasswordtestAddUser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddUser01.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HotelMyCampProjects" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +89,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.hotel" />
-      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
-      <option name="METHOD_NAME" value="negativepasswordtestAddUser" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser01" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -114,7 +98,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddUser.positivePasswordtestAddUser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AddUserDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HotelMyCampProjects" />
       <extension name="coverage">
         <pattern>
@@ -123,9 +107,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.hotel" />
-      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUser" />
-      <option name="METHOD_NAME" value="positivePasswordtestAddUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.AddUserDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q12" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HotelMyCampProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.hotel" />
+      <option name="MAIN_CLASS_NAME" value="tests.hotel.Q12" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AddUser.datePositiveTest (1)" />
-        <item itemvalue="TestNG.AddUser.datePositiveTest" />
-        <item itemvalue="TestNG.AddUser.dateNegativeTest" />
-        <item itemvalue="TestNG.AddUser.positivePasswordtestAddUser" />
-        <item itemvalue="TestNG.AddUser.negativepasswordtestAddUser" />
+        <item itemvalue="TestNG.Q12" />
+        <item itemvalue="TestNG.AddUserDataProvider" />
+        <item itemvalue="TestNG.AddUser01" />
+        <item itemvalue="TestNG.AddUser01.passwordnegativetest" />
+        <item itemvalue="TestNG.AddUser01.test01" />
       </list>
     </recent_temporary>
   </component>

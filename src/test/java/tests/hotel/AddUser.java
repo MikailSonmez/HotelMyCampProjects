@@ -355,6 +355,7 @@ public class AddUser extends TestBaseRapor {
 
     @Test(priority = 12)
     public void possitiveSSNTest() {
+
         extentTest = extentReports.createTest("possitiveSSNTest", "Made in GURU");
         extentTest.info("Bu Test Kaynanamin onuruna ");
         hotelMCPAddUser.addUserSocialSecurityNumberbox.sendKeys(ConfigReader.getProperty("HMCAddUSerTrueSSN"));
